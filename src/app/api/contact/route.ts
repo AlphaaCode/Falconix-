@@ -1,4 +1,4 @@
-import { NextResponse } from "next/server";
+/*import { NextResponse } from "next/server";
 import { Resend } from "resend";
 import { google } from "googleapis";
 
@@ -76,3 +76,4 @@ export async function POST(req: Request) {
     );
   }
 }
+*/
